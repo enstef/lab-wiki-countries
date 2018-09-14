@@ -1,0 +1,8 @@
+.left {
+  height: 100vh;
+  overflow: scroll;
+}
+.header {
+  width: 100vw;
+  background-color: lightskyblue;
+}
